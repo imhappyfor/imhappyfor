@@ -2,6 +2,8 @@
 
 ☕️ I'm a software engineer looking to make great ideas a reality ☕️
 
+Feel free to browse my projects and leave a ⭐️ if you happen to like any of them 😅
+
 ![no it's not](https://media1.giphy.com/media/GajHTHXHb5kEz6eJ1W/giphy.gif)
 
 
